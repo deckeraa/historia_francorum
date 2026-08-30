@@ -149,14 +149,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="9172.0368" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="10004.04" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="23" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="10004.04" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="24" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="140232658" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3599695584477.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="140232658" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3599718687542.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="140236002" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="37773466966.0008" gYpos="3599484390503.67" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="140236002" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="37776081430.0008" gYpos="3599507493568.67" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1795,6 +1795,148 @@
                 <ITEXT CH="victimae: of the sacrificial victim; singular feminine genitive from victima, victimae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocant: they call; 3rd person plural present from vocō, vocāre, vocāvī, vocātum"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="8376.0336" OwnPage="19" ItemID="1812409458" PTYPE="4" WIDTH="522" HEIGHT="213.214807643311" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 213.215 L0 213.215 L0 0 Z" copath="M0 0 L522 0 L522 213.215 L0 213.215 L0 0 Z" gXpos="136.0008" gYpos="8376.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="8. Dē Isaāc, Isau, et Iōb et Iācōb."/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Ābrahām erat centum annōrum et genuit Isaāc. Isaāc erat in annō sexāgēsimō aetātis et fīliī geminī nātī sunt dē Rebeccā. Prīmus erat Esau, quī vēndidit prīmōgenita sua. Ipse est pater Idūmaeōrum, dē cuius generātiōne quārtā nātus est Iobab, hoc est Isau, Raguēl, Zara, Iobab, quī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" et Iōb. Iōb vīxit annōs 249. In octōgēsimō nōnō annō ab īnfirmitāte"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" līberātus est. Post īnfirmitātem autem 170 annīs, restitūtā in duplum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" omnī facultāte."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="8589.24840764331" OwnPage="19" ItemID="139692578" PTYPE="4" WIDTH="522" HEIGHT="140.636942675161" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 140.637 L0 140.637 L0 0 Z" copath="M0 0 L522 0 L522 140.637 L0 140.637 L0 0 Z" gXpos="136.0008" gYpos="8589.24840764331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Jobab, who is (also called) Job."/>
+                <ITEXT CH=" Gregory's assertion is that the Jobab, the great-grandson of Esau, is the titular character of book of Job. Gregory may have gotten this from the LXX version of Job, which directly states in 42:17b-17c that Job is the Jobab descended from Abraham. However, this is in a textual variant that claims to gets its information from a Syriac book, so the canonicity of the verses could be called into question. There is some internal evidence in Job that supports the identification of Job with Jobab; for example, one of his friends is called Eliphaz the Temanite and Teman is mentioned as a grandson of Esau in Genesis 36:11."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="The Devil struck Job will an illness in Job 2:7."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="After Job's trial, God restored to him twice the amount of things that he had lost."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="8376.0336" OwnPage="20" ItemID="1808508802" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="8376.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ab: from, out of, by"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ābrahām: Abraham; singular masculine nominative from Ābrahām"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aetātis: age's; singular feminine genitive from aetās, aetātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annīs: years; plural masculine ablative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annōrum: of the years; plural masculine genitive from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: however, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="centum: 100; plural common nominative from centum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cuius: whose; singular masculine genitive from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: from or of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duplum: double; singular neuter accusative from duplus, dupla, duplum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: he was; 3rd person singular imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Esau: Esau; singular masculine nominative from Esau"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he/it is; 3rd person singular present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="facultāte: resources; singular feminine ablative from facultās, facultātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīliī: sons; plural masculine nominative from fīlius, fīliī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="geminī: twin; plural masculine nominative from geminus, gemina, geminum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="generātiōne: generation; singular feminine ablative from generātiō, generātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="genuit: he begot; 3rd person singular perfect from genō, genere, genuī, genitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hoc: this; singular neuter nominative from hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iācōb: Jacob; singular masculine ablative from Iācōb"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Idūmaeōrum: of the Edomites; plural neuter genitive from Idūmaeus, Idūmaeī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnfirmitāte: infirmity; singular feminine ablative from īnfirmitās, īnfirmitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnfirmitātem: infirmity; singular feminine accusative from īnfirmitās, īnfirmitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iōb: Job; singular masculine ablative or singular masculine nominative from Iōb"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iobab: Jobab, son of Zerah, ruler of Edom. See 1 Chronicles 1:44."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ipse: He himself; singular masculine nominative from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Isaāc: Isaac; singular masculine ablative or singular masculine accusative or singular masculine nominative from Isaāc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Isau: Esau; singular masculine ablative or singular masculine nominative from Isau"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="līberātus: līberātus est = he was liberated; singular masculine nominative participle from līberō, līberāre, līberāvī, līberātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nātī: nātī sunt = they were born; plural masculine nominative from nātus, nātī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nātus: nātus est = he was born; singular masculine nominative participle from nāscor, nāscī, nātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōnō: ninth; singular masculine ablative from nōnus, nōna, nōnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="octōgēsimō: eightieth (80th); singular masculine ablative from octōgēsimus, octōgēsima, octōgēsimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnī: all, every; singular feminine ablative from omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="post: after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīmōgenita: rights of the first-born; plural neuter accusative from prīmōgenitus, prīmōgenita, prīmōgenitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīmus: first; singular masculine nominative from prior"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quārtā: fourth; singular feminine ablative from quārtus, quārta, quārtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quī: who; singular masculine nominative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Raguēl: Reuel, son of Esau via Basemath. See Genesis 36:10."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rebeccā: Rebecca; singular feminine ablative from Rebecca, Rebeccae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="restitūtā: having been restored; singular feminine ablative participle from restituō, restituere, restituī, restitūtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sexāgēsimō: the sixtieth; singular masculine ablative from sexāgēsimus, sexāgēsima, sexāgēsimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sua: their; plural neuter accusative from suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēndidit: he sold; 3rd person singular perfect from vēndō, vēndere, vēndidī, vēnditum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīxit: he lived; 3rd person singular perfect from vīvō, vīvere, vīxī, vīctum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Zara: Zerah, son of Reuel, grandson of Esau. See Genesis 36:13."/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
