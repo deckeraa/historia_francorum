@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="27476.1072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="66" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="67" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="68" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1622161747" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3603789760743.21" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1622161747" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3604198170314.66" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1622268835" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="37992319390.0008" gYpos="3603578566769.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1622268835" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="38009485990.0008" gYpos="3603986976340.85" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5028,11 +5028,113 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="20856.0816" OwnPage="50" ItemID="1713163043" PTYPE="4" WIDTH="522" HEIGHT="243" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 243 L0 243 L0 0 Z" copath="M0 0 L522 0 L522 243 L0 243 L0 0 Z" gXpos="766.0008" gYpos="20856.0816" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="20856.0816" OwnPage="50" ItemID="1713163043" PTYPE="4" WIDTH="522" HEIGHT="719.999999999989" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="20856.0816" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="TODO"/>
-                <trail/>
+                <ITEXT CH="ad: for"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adversum: against"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Antiochēnsis: of Antioch; singular masculine genitive from Antiochēnsis, Antiochēnse"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="archidiāconus: archdeacon; singular masculine nominative from archidiāconus, archidiāconī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Babillās: Babillas (a name)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bella: battles; plural neuter nominative from bellum, bellī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstiānum: Christian; singular neuter accusative from Chrīstiānus, Chrīstiāna, Chrīstiānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnfessiōnem: confession; singular feminine accusative from cōnfessiō, cōnfessiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnsummātī: cōnsummātī sunt = they were consummated; plural masculine nominative participle from cōnsummō, cōnsummāre, cōnsummāvī, cōnsummātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Deciō: Decius, Roman emperor from 249-251 AD; singular masculine ablative from Decius, Deciī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dominicī: the Lord's; singular neuter genitive from dominicus, dominica, dominicum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ecclēsiae: church's; singular feminine genitive from ecclēsia, ecclēsiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="episcopus: bishop; singular masculine nominative from episcopus, episcopī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Epolōn: Epolon (a name)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: it is; 3rd person singular present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Gallīs: Gauls; plural masculine ablative from Gallus, Gallī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hereticōrum: of the heretics; plural masculine genitive from haereticus, haeretica, haereticum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Hyppolitus: Hyppolitus; singular masculine nominative from Hyppolitus, Hyppolitī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="id: it; singular neuter nominative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="imperātōre: emperor; singular masculine ablative from imperātor, imperātōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Laurentius: Lawrence; singular masculine nominative from Laurentius, Laurentiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyrēs: martyrs; plural masculine accusative from martyr, martyris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyrium: martyrdom; singular neuter accusative from martyrium, martyriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="missīs: having been sent; plural masculine ablative participle from mittō, mittere, mīsī, missum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multa: many, much; plural neuter nominative from multus, multa, multum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōmen: name; singular neuter accusative from nōmen, nōminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōminis: name's; singular neuter genitive from nōmen, nōminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Novatiānus: Novatian, a priest who opposed the Catholic church's re-acceptance of the lapsī (people who renounced the faith under persecution but later wanted to return to the faith) after the persecution under Decius around 250 AD.; singular masculine nominative from Novatiānus, Novatiānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="numerāre: to count; present active infinitive from numerō, numerāre, numerāvī, numerātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ob: towards, for, because of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="parvolīs: little ones; plural masculine ablative from parvolus, parvola, parvolum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through, during, by means of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="possumus: we can; 1st person plural present from possum, posse, potuī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praedicandum: preaching; singular neuter accusative gerund from praedicō, praedicāre, praedicāvī, praedicātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Prilidan: Prilidan (a name)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīncipēs: princes; plural masculine nominative from prīnceps, prīncipis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rōmānae: Roman; singular feminine genitive from Rōmānus, Rōmāna, Rōmānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="septem: 7; plural masculine ablative from septem"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sub: under"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tribus: three; plural masculine ablative from trēs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tunc: then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Urban: Urban (a name)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Valentīniānus: Valentinus, founder of a gnostic heresy in the second century; singular masculine nominative from Valentīniānus, Valentīniānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="virīs: men; plural masculine ablative from vir, virī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Xystus: Xystus (a name)"/>
+                <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="136.0008" YPOS="21688.0848" OwnPage="51" ItemID="1713170851" PTYPE="4" WIDTH="522" HEIGHT="299.43112356689" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 299.431 L0 299.431 L0 0 Z" copath="M0 0 L522 0 L522 299.431 L0 299.431 L0 0 Z" gXpos="136.0008" gYpos="21688.0848" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
