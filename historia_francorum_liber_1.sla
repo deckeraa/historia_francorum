@@ -193,14 +193,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="27476.1072" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="66" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="67" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="28308.1104" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="68" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1622161747" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3604198170314.66" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1622161747" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3604451631769.91" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1622268835" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="38009485990.0008" gYpos="3603986976340.85" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1622268835" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="38020139686.0008" gYpos="3604240437796.1" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5773,5 +5773,217 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="169.994430573248" YPOS="21987.5159235669" OwnPage="51" ItemID="1614406979" PTYPE="2" WIDTH="454.012738853503" HEIGHT="410.445859872601" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.102739889830438" LOCALSCY="0.102739889830438" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="7_urbes.png" IRENDER="0" EMBEDDED="0" path="M0 0 L454.013 0 L454.013 410.446 L0 410.446 L0 0 Z" copath="M0 0 L454.013 0 L454.013 410.446 L0 410.446 L0 0 Z" gXpos="169.994430573248" gYpos="21987.5159235669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="136.0008" YPOS="25016.0976" OwnPage="59" ItemID="1791744067" PTYPE="4" WIDTH="522" HEIGHT="415.953355414029" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 415.953 L0 415.953 L0 0 Z" copath="M0 0 L522 0 L522 415.953 L0 415.953 L0 0 Z" gXpos="136.0008" gYpos="25016.0976" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="33. Dē martyribus quī circā Arvernum passī sunt."/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Iuxtā hanc urbem, Liminius et Antoliānus martyrēs requiēscunt. Ibi Cassius ac Victorīnus sunt adeptī caelōrum rēgnum pariter per effūsiōnem cruōris propriī. Victorīnus erat servus sacerdōtis antedīctī templī. Victorīnus iit ad vīcum, in quō Cassius habitābat, ad persequendōs Chrīstiānōs. Victorīnus repperit Cassium esse Chrīstiānum. Sed, mōtus mīrāculīs et praedicātiōnibus Cassiī, Victorīnus crēdidit Chrīstō et erat magnus in virtūte. Nec multō post, Cassius et Victorīnus vēnērunt pariter per martyrium ad rēgnum caelōrum."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="34. Dē sānctō Prīvātō martyre."/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Alamannī invādēbant in Galliās. Sānctus Prīvātus, episcopus urbis Gabalitānae, erat in cryptā montis prope urbem. Chrocus iit ad urbem cum exercitū et repperit Prīvātum in monte. Chrocus iussit Prīvātum immolāre daemoniīs. Prīvātus refūtāvit, caedēbātur fūstibus, et mortuus est. Chrocus, autem, iit apud Arelātēnsum Galliārum urbem, verberātus est cum gladiō, et mortuus est, ob scelera eius contrā Deum."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="25016.0976" OwnPage="60" ItemID="1824148579" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="25016.0976" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ac: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adeptī: sunt adeptī = they were prepared; plural masculine nominative participle from adipīscor, adipīscī, adeptum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Alamannī: Germans; plural masculine nominative from Alamannus, Alamannī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="antedīctī: aforesaid; singular neuter genitive from antedīctus, antedīcta, antedīctum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Antoliānus: Antoliānus, a martyr"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apud: at, by, near"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Arelātēnsum: of the people of Arles, France; plural masculine genitive from Arelātēnsēs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Arvernum: Clermont/Auvergne; singular masculine accusative from Arvernus, Arvernī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: however, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="caedēbātur: he was being beaten; 3rd person singular imperfect passive from caedō, caedere, cecīdī, caesum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="caelōrum: of the heavens; plural masculine genitive from caelus, caelī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cassiī: of Cassius; singular masculine genitive from Cassius, Cassiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cassium: Cassius; singular masculine accusative from Cassius, Cassiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cassius: Cassius; singular masculine nominative from Cassius, Cassiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstiānōs: Christians; plural masculine accusative from Chrīstiānus, Chrīstiāna, Chrīstiānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstiānum: Christian; singular masculine accusative from Chrīstiānus, Chrīstiāna, Chrīstiānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstō: Christ; singular masculine dative from Chrīstus, Chrīstī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrocus: Chrocus or Crocus, a leader of the Alemanni who attacked Roman Gaul around 260 AD; singular masculine nominative from Chrocus, Chrocī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="circā: around"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="contrā: against"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="crēdidit: he believed; 3rd person singular perfect from crēdō, crēdere, crēdidī, crēditum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cruōris: blood's, gore's; singular masculine genitive from cruor, cruōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cryptā: crypt; singular feminine ablative from crypta, cryptae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="daemoniīs: demons; plural neuter dative from daemonium, daemoniī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deum: god; singular masculine accusative from deus, deī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="effūsiōnem: outpouring; singular feminine accusative from effūsiō, effūsiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eius: his; singular masculine genitive from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="episcopus: bishop; singular masculine nominative from episcopus, episcopī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: he was; 3rd person singular imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esse: to be; present active infinitive from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="exercitū: army; singular masculine ablative from exercitus, exercitūs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fūstibus: clubs; plural masculine ablative from fūstis, fūstis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Gabalitānae: of Gabali, modern-day Javols, a city in France; singular feminine genitive from Gabalitāna, Gabalitānae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Galliārum: of the Gauls, French; plural feminine genitive from Gallia, Galliae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Galliās: Gaul, France; plural feminine accusative from Gallia, Galliae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gladiō: sword; singular masculine ablative from gladius, gladiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habitābat: he was inhabiting; 3rd person singular imperfect from habitō, habitāre, habitāvī, habitātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hanc: this; singular feminine accusative from hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ibi: there, then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iit: he went; 3rd person singular perfect from eō, īre, iī, itum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="immolāre: to sacrifice; present active infinitive from immolō, immolāre, immolāvī, immolātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="invādēbant: they were invading; 3rd person plural imperfect from invādō, invādere, invāsī, invāsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iussit: he commanded; 3rd person singular perfect from iubeō, iubēre, iussī, iussum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iuxtā: next"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Liminius: Liminius, a martyr"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="magnus: big, large, great; singular masculine nominative from magnus, magna, magnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyre: martyr; singular masculine ablative from martyr, martyris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyrēs: martyrs; plural masculine nominative from martyr, martyris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyribus: martyrs; plural masculine ablative from martyr, martyris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyrium: martyrdom; singular neuter accusative from martyrium, martyriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīrāculīs: miracles; plural neuter ablative from mīrāculum, mīrāculī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="monte: mountain; singular masculine ablative from mōns, montis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="montis: mountain's; singular masculine genitive from mōns, montis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mortuus: mortuus est = he died; singular masculine nominative from mortuus, mortua, mortuum or singular masculine nominative perfect participle from morior, morī, mortuum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mōtus: having been moved; singular masculine nominative participle from moveō, movēre, mōvī, mōtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multō: many, much; singular neuter ablative from multus, multa, multum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nec: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ob: towards, for, because of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pariter: together"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="passī: passī sunt = they suffered; plural masculine nominative participle from patior, patī, passum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through, during, by means of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="persequendōs: pursuing; plural masculine accusative gerund from persequor, persequī, persecūtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="post: after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praedicātiōnibus: preachings; plural feminine ablative from praedicātiō, praedicātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Prīvātō: Saint Privatus, bishop of Gabali and martyr; singular masculine ablative from Prīvātus, Prīvātī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Prīvātum: Saint Privatus, bishop of Gabali and martyr; singular masculine accusative from Prīvātus, Prīvātī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Prīvātus: Saint Privatus, bishop of Gabali and martyr; singular masculine nominative from Prīvātus, Prīvātī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prope: near"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="propriī: own, personal; singular masculine genitive from proprius, propria, proprium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quī: who; plural masculine nominative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: which; singular masculine ablative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="refūtāvit: he refuted; 3rd person singular perfect from refūtō, refūtāre, refūtāvī, refūtātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnum: kingdom; singular neuter accusative from rēgnum, rēgnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="repperit: he found; 3rd person singular perfect from reperiō, reperīre, repperī, repertum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="requiēscunt: they rest; 3rd person plural present from requiēscō, requiēscere, requiēvī, requiētum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sacerdōtis: priest's; singular masculine genitive from sacerdōs, sacerdōtis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctō: saint; singular masculine ablative from sānctus, sānctī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctus: saint; singular masculine nominative from sānctus, sāncta, sānctum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="scelera: crimes; plural neuter accusative from scelus, sceleris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sed: but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="servus: slave; singular masculine nominative from servus, servī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="templī: temple's; singular neuter genitive from templum, templī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbis: city's; singular feminine genitive from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnērunt: they came; 3rd person plural perfect from veniō, venīre, vēnī, ventum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="verberātus: verberātus est = he was beaten; singular masculine nominative participle from verberō, verberāre, verberāvī, verberātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Victorīnus: Victorinus; singular masculine nominative from Victorīnus, Victorīnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīcum: village; singular masculine accusative from vīcus, vīcī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="virtūte: virtue; singular feminine ablative from virtūs, virtūtis"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
