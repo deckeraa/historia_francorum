@@ -273,14 +273,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="60756.2352" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="146" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="61588.2384" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="147" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="61588.2384" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="148" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1192968897" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3628805871369.13" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1192968897" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3629558543064.13" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1193012929" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="38659071358.0008" gYpos="3628594677395.31" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1193012929" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="38673835246.0008" gYpos="3629347349090.32" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -14565,6 +14565,235 @@
                 <ITEXT CH="Zorobabel: Zerubbabel, the governor who first led the Israelites back from the Babylonian captivity; singular masculine accusative from Zorobabel, Zorobabēlis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Zorobabil: Zerubbabel"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="59128.2288" OwnPage="141" ItemID="1647744049" PTYPE="4" WIDTH="522" HEIGHT="413.019607643364" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 413.02 L0 413.02 L0 0 Z" copath="M0 0 L522 0 L522 413.02 L0 413.02 L0 0 Z" gXpos="136.0008" gYpos="59128.2288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="17. Dē dīversīs gentium rēgnīs."/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Ergō nē videāmur ūnīus tantum Hebraeae gentis habēre nōtitiam, reliqua rēgna, quae"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" vel quālī Isrāhēlīticārum fuerint tempore, memorāmus. Tempore Ābrahae Ninus rēgnābat super Assyriōs; Siciōnis Europs; apud Aegyptiōs autem sexta decima erat potestās, quam suā linguā dynastīam vocābant. Tempore Moȳsī apud Argīvōs rēgnābat septimus Tropās; in Atticā Caecros prīmus; apud Aegyptiōs Cencris duodecimus, quī et in mare obrutus est Rubrō; apud Assyriōs sextus decimus Agatadis; apud Sicionius Marātis. Tempore vērō Salamōnis, quandō rēgnābat super Isrāhēl, apud Latīnōs quīntus rēgnābat Silvius; Lacidaemōniīs Fistus; Corinthiīs secundus Oxīōn; Aegyptiōrum Thebēī centēsimō vīcēsimō sextō annō; super Assyriōs Eutrōpēs; Athēniēnsibus secundus Agasastus. Tempore quō Amōn rēgnābat super Iūdaeam, quandō captīvitās in Babylōniā abiit, Macedoniīs praeerat Argēus; Laedōrum Cycēs; Aegyptiōrum Vafrēs; apud Babylōniam Nabuchodonosor, quī eōs captīvōs abdūxit; Rōmānōrum sextus Servius."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="59541.2484076433" OwnPage="141" ItemID="1644915665" PTYPE="4" WIDTH="522" HEIGHT="29.3503184713409" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 29.3503 L0 29.3503 L0 0 Z" copath="M0 0 L522 0 L522 29.3503 L0 29.3503 L0 0 Z" gXpos="136.0008" gYpos="59541.2484076433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which or of what type they (the other kingdoms) were in the time of the Israelites."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="59128.2288" OwnPage="142" ItemID="1664795025" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="59128.2288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="abdūxit: he took away; 3rd person singular perfect from abdūcō, abdūcere, abdūxī, abductum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="abiit: he departed; 3rd person singular perfect from abeō, abīre, abivī, abitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ābrahae: Abraham's; singular masculine genitive from Ābrahām"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Aegyptiōrum: of the Egyptians; plural masculine genitive from Aegyptius, Aegyptiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Aegyptiōs: Egyptians; plural masculine accusative from Aegyptius, Aegyptiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Agasastus: Agasastus (?), king of the Athenians"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Agatadis: Agatadis (?) a king of the Assyrians"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Amōn: Amon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apud: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Argēus: Argeus, king of Argos"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Argīvōs: Argives; plural masculine accusative from Argīvus, Argīva, Argīvum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Assyriōs: Assyrians; plural masculine accusative from Assyrius, Assyriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Athēniēnsibus: Athenians; plural masculine ablative from athēniēnsis, athēniēnse"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Atticā: Attica, a region around Greece"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: however, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Babylōniā: Babylon; singular feminine ablative from Babylōnia, Babylōniae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Babylōniam: Babylon; singular feminine accusative from Babylōnia, Babylōniae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Caecros: Cecrops II, king of Athens"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="captīvitās: captivity; singular feminine nominative from captīvitās, captīvitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="captīvōs: captive; plural masculine accusative from captīvus, captīva, captīvum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cencris: Cencris (?) 12th, an Egyptian king"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="centēsimō: hundredth; singular masculine ablative from centēsimus, centēsima, centēsimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Corinthiīs: Corinthians; plural masculine ablative from Corinthius, Corinthia, Corinthium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cycēs: Gyges, king of Lydia"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="decima: tenth; singular feminine nominative from decimus, decima, decimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="decimus: tenth; singular masculine nominative from decimus, decima, decimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīversīs: diverse, different; plural neuter ablative from dīversus, dīversa, dīversum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duodecimus: twelveth; singular masculine nominative from duodecimus, duodecima, duodecimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dynastīam: dynasty; singular feminine accusative from dynastīa, dynastīae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eōs: them; plural masculine accusative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: it was; 3rd person singular imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ergō: therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Europs: Europs, king of Sicyon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Eutrōpēs: Eutropes (?), an Assyrian king"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Fistus: Fistus (?), a Spartan king"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fuerint: they were; 3rd person plural future-perfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gentis: people's, nation's; singular feminine genitive from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gentium: of the peoples, nations; plural feminine genitive from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habēre: to have; present active infinitive from habeō, habēre, habuī, habitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hebraeae: Hebrew; singular feminine genitive from hebraeus, hebraea, hebraeum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Isrāhēl: Israel; singular masculine accusative from Isrāhēl, Isrāhēlis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Isrāhēlīticārum: Israelite; plural feminine genitive from Isrāhēlīticus, Isrāhēlītica, Isrāhēlīticum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iūdaeam: Judea; singular feminine accusative from Iūdaea, Iūdaeae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Lacidaemōniīs: Spartans"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Laedōrum: of the residents of Lydia (a city in Anatolia)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Latīnōs: Latins; plural masculine accusative from Latīnus, Latīna, Latīnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="linguā: language; singular feminine ablative from lingua, linguae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Macedoniīs: Macedonians"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Marātis: Marathus, king of Sicyon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mare: sea; singular neuter ablative from mare, maris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="memorāmus: we mention; 1st person plural present from memorō, memorāre, memorāvī, memorātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Moȳsī: of Moses; singular masculine genitive from Moysēs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Nabuchodonosor: Nebuchadnezzar"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nē: lest"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ninus: Ninus, legendary founder of Nineveh; singular masculine nominative from Ninus, Ninī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōtitiam: knowledge; singular feminine accusative from nōtitia, nōtitiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="obrutus: obrutus est = he was crushed; singular masculine nominative participle from obruō, obruere, obruī, obrutum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Oxīōn: Oxīōn (?), king of Corinth"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="potestās: power; singular feminine nominative from potestās, potestātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praeerat: he was presiding; 3rd person singular imperfect from praesum, praeesse, praefuī, praefutūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīmus: first; singular masculine nominative from prior"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quae: which; plural neuter nominative from quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quālī: what kind?; singular neuter ablative from quālis, quāle"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quam: which; singular feminine accusative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quandō: when?"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quī: who; singular masculine nominative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quīntus: fifth; singular masculine nominative from quīntus, quīnta, quīntum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: in which; singular neuter ablative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgna: kingdoms; plural neuter accusative from rēgnum, rēgnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnābat: he was reigning; 3rd person singular imperfect from rēgnō, rēgnāre, rēgnāvī, rēgnātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rēgnīs: kingdoms; plural neuter ablative from rēgnum, rēgnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="reliqua: remaining; plural neuter accusative from reliquus, reliqua, reliquum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rōmānōrum: of the Romans; plural masculine genitive from Rōmānūs, Rōmānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rubrō: red; singular neuter ablative from ruber, rubra, rubrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Salamōnis: Solomon's; singular masculine genitive from Salamōn, Salamōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="secundus: second, following; singular masculine nominative from secundus, secunda, secundum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="septimus: seventh; singular masculine nominative from septimus, septima, septimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Servius: Servius Tullius, sixth king of Rome"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sexta: sixth; singular feminine nominative from sextus, sexta, sextum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sextō: sixth; singular masculine ablative from sextus, sexta, sextum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sextus: sixth; singular masculine nominative from sextus, sexta, sextum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Siciōnis: Sicyon, a city in ancient Greece"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Sicionius: people of Sicyon, Greece"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Silvius: Silvius, son of Ascanius, son of Aeneas"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suā: their; singular feminine ablative from suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="super: above, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tantum: only, alone, just"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempore: time; singular neuter ablative from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Thebēī: Thebans; plural neuter nominative from Thebēus, Thebēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Tropās: Triopas, king of Argos"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūnīus: of one; singular feminine genitive from ūnus, ūna, ūnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Vafrēs: Vaphres (?), king of Egypt"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vel: or"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: and, but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīcēsimō: twentieth; singular masculine ablative from vīcēsimus, vīcēsima, vīcēsimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="videāmur: we appear; 1st person plural present passive subjunctive from videō, vidēre, vīdī, vīsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vocābant: they were calling; 3rd person plural imperfect from vocō, vocāre, vocāvī, vocātum"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
