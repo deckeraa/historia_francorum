@@ -293,14 +293,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="69076.2672" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="166" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="69908.2704" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="167" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="69908.2704" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="168" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1192968897" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3654831542994.62" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1192968897" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="813484.0008" gYpos="3656367162981.24" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1193012929" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="39125904346.0008" gYpos="3654620349020.81" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1193012929" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="39152482282.0008" gYpos="3656155969007.43" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -16966,6 +16966,150 @@
                 <ITEXT CH="vērō: and, but"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vocātur: he is called; 3rd person singular present passive from vocō, vocāre, vocāvī, vocātum"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="67448.2608" OwnPage="161" ItemID="1739256497" PTYPE="4" WIDTH="522" HEIGHT="205.140473885403" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.14 L0 205.14 L0 0 Z" copath="M0 0 L522 0 L522 205.14 L0 205.14 L0 0 Z" gXpos="136.0008" gYpos="67448.2608" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nam sub Antōnīnī imperiō Marcionītāna et Valentīniāna heresis īnsāna surrēxit; et Iūstīnus"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" philosophus post scrīptōs catholicae ecclēsiae librōs martyriō prō Chrīstī nōmine corōnātur. In Asiā autem, ortā persecūtiōne, beātissimus Policarpus, Iōhannis apostolī et ēvangelistae discipulus, octōgēsimō aetātis suae annō velut holocaustum pūrissimum per īgnem Dominō cōnsecrātur. Sed et in Gallīs multī prō Chrīstī nōmine sunt per martyrium gemmīs caelestibus corōnātī; quōrum passiōnum historiae apud nōs fidēliter ūsque hodiē retinentur."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.0008" YPOS="67653.8598726115" OwnPage="161" ItemID="1697419201" PTYPE="4" WIDTH="522" HEIGHT="27.05732484076" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 27.0573 L0 27.0573 L0 0 Z" copath="M0 0 L522 0 L522 27.0573 L0 27.0573 L0 0 Z" gXpos="136.0008" gYpos="67653.8598726115" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="This refers to Justin Martyr, who wrote letters defending the Christian faith."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="67448.2608" OwnPage="162" ItemID="1742041873" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="67448.2608" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="aetātis: age's; singular feminine genitive from aetās, aetātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Antōnīnī: of Antoninus Pius, Roman emperor from 138-161 AD; singular masculine genitive from Antōnīnus, Antōnīnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apostolī: apostle's; singular masculine genitive from apostolus, apostolī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apud: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Asiā: Asia Minor; singular feminine ablative from Asia, Asiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: however, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="beātissimus: very blessed; singular masculine nominative from beātus, beāta, beātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="caelestibus: heavenly; plural feminine ablative from caelestis, caeleste"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="catholicae: catholic; singular feminine genitive from catholicus, catholica, catholicum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Chrīstī: of Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnsecrātur: it is consecrated; 3rd person singular present passive from cōnsecrō, cōnsecrāre, cōnsecrāvī, cōnsecrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="corōnātī: corōnātī sunt = they were crowned; plural masculine nominative participle from corōnō, corōnāre, corōnāvī, corōnātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="corōnātur: he is crowned; 3rd person singular present passive from corōnō, corōnāre, corōnāvī, corōnātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="discipulus: student; singular masculine nominative from discipulus, discipulī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Dominō: Lord; singular masculine dative from Dominus, Dominī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ecclēsiae: church's; singular feminine genitive from ecclēsia, ecclēsiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ēvangelistae: evangelist's, preacher's; singular masculine genitive from ēvangelista, ēvangelistae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fidēliter: faithfully"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Gallīs: Gauls; plural masculine ablative from Gallus, Gallī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gemmīs: gems; plural feminine ablative from gemma, gemmae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="heresis: heresy; singular feminine nominative from heresis, heresis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="historiae: histories; plural feminine nominative from historia, historiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hodiē: today"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="holocaustum: sacrifice; singular neuter nominative from holocaustum, holocaustī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īgnem: fire; singular masculine accusative from īgnis, īgnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="imperiō: reign; singular neuter ablative from imperium, imperiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnsāna: insane; singular feminine nominative from īnsānus, īnsāna, īnsānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iōhannis: John's; singular masculine dative from Iōannēs, Iōannis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iūstīnus: Justin; singular masculine nominative from Iūstīnus, Iūstīnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="librōs: books; plural masculine accusative from liber, librī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Marcionītāna: Marcionite. Marcion created a heresy claiming that the God of the Old Testament was not the true God."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyriō: martyrdom; singular neuter ablative from martyrium, martyriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="martyrium: martyrdom; singular neuter accusative from martyrium, martyriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multī: many, much; plural masculine nominative from multus, multa, multum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nam: for, because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōmine: name; singular neuter ablative from nōmen, nōminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōs: us; plural common accusative from ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="octōgēsimō: eightieth (80th); singular masculine ablative from octōgēsimus, octōgēsima, octōgēsimum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ortā: was arising; singular feminine ablative participle from orior, orīrī, ortum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="passiōnum: of the sufferings; plural feminine genitive from passiō, passiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through, during, by means of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="persecūtiōne: persecution; singular feminine ablative from persecūtiō, persecūtiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="philosophus: philosopher; singular masculine nominative from philosophus, philosophī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Policarpus: Polycarp; singular masculine nominative from Policarpus, Policarpī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="post: after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: on account of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pūrissimum: very pure; singular neuter nominative from pūrus, pūra, pūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōrum: whose; plural neuter genitive from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="retinentur: they are retained; 3rd person plural present passive from retineō, retinēre, retinuī, retentum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="scrīptōs: having been written; plural masculine accusative participle from scrībō, scrībere, scrīpsī, scrīptum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sed: but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suae: his; singular feminine genitive from suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sub: under"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="surrēxit: it arose; 3rd person singular perfect from surgō, surgere, surrēxī, surrēctum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūsque: up to, until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Valentīniāna: Valentinian. Valentinianism was a gnostic heresy created in the second century."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="velut: like, similar to"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
